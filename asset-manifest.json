@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/treelayers.git/static/css/main.4baec494.css",
+    "main.js": "/treelayers.git/static/js/main.907322dc.js",
+    "static/js/488.57775c86.chunk.js": "/treelayers.git/static/js/488.57775c86.chunk.js",
+    "index.html": "/treelayers.git/index.html",
+    "main.4baec494.css.map": "/treelayers.git/static/css/main.4baec494.css.map",
+    "main.907322dc.js.map": "/treelayers.git/static/js/main.907322dc.js.map",
+    "488.57775c86.chunk.js.map": "/treelayers.git/static/js/488.57775c86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4baec494.css",
+    "static/js/main.907322dc.js"
+  ]
+}
