@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-      <div style={{margin:"10px", alignItems:"center" }}>Hello File Explorer!</div>
+      <div style={{margin:"10px", alignItems:"center" }}>Hello File Explorer !</div>
       {console.log(explorerData)}
       <Folder handleInsertNode={handleInsertNode} explorer={explorerData}/>
     </div>
