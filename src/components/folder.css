@@ -1,0 +1,45 @@
+.rootParent{
+    background-color: rgb(246, 247, 247);
+    padding: 5px;
+}
+
+.rootFolders{
+    margin-top: 5px;
+    background-color: rgb(218, 221, 220);
+    width: 400px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+    border-radius: 5%;
+}
+
+.rootFiles{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+button{
+    border-radius: 10%;
+    margin: 1px;
+    background-color: rgb(218, 224, 224);
+}
+
+.inputContainer{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.inputContainer > span{
+    margin-top: 5px;
+}
+
+.inputContainerInput{
+    display: flex;
+    border: 1px solid lightgray;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
